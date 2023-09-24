@@ -1,8 +1,11 @@
 # A Comparative Analysis of Convolutional Neural Network Architectures for Coffee Leaf Rust Detection
 
-![rust.jpg](Resources/rust.jpg)
+<p align="center">
+  <img src="Resources/rust.jpg" alt="rust" width="500">
+</p>
 
 <h1 align="center"><em>Hemileia vastatrix</em></h1>
+
 ## Coffee Leaf Rust Detection
 Coffee is an essential part of many people's lives, providing morning energy and relaxation. However, coffee plants face threats, notably coffee leaf rust, caused by the fungus Hemileia vastatrix, which can severely affect coffee plant health and yield. This disease, spread by various means, can lead to significant losses of 30% to 50% in coffee production, impacting economies heavily reliant on coffee exports. Even minor declines in coffee yields or increased manufacturing costs have substantial consequences on various sectors, including coffee growers and banking institutions.
 
@@ -44,11 +47,15 @@ The complete list of models trained are the following:
 ## Inferencing
 The top five (5) best performing models were evaluated and inferenced. Inferencing was done to determine if the model correctly detects if the coffee leaf is infected with rust or not.
 
-![inf healthy](Resources/output%20-%20healthy.png)
+<p align="center">
+  <img src="Resources/output%20-%20healthy.png" alt="inf healthy">
+</p>
 
 <h4 align="center">Healthy</h4>
 
-![inf rust](Resources/output%20-%20rust.png)
+<p align="center">
+  <img src="Resources/output%20-%20rust.png" alt="inf rust">
+</p>
 
 <h4 align="center">Rust</h4>
 
